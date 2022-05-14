@@ -1,4 +1,6 @@
 ### Hey , Welcome to my GitHub 👨‍💻❤️
+<img align="center" src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" height="100" />
+
 
 <!--
 **ahan-stark/ahan-stark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
