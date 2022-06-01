@@ -1,4 +1,4 @@
-### Hey <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="max-width: 100%;"> , Welcome to my GitHub 👨‍💻
+### Hey <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" height="70px" style="max-width: 100%;"> , Welcome to my GitHub 👨‍💻
 ### Connect me at : <a href="https://www.linkedin.com/in/ahan-m-a-73377a191" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652531711~hmac=a2fc68952d2f0b533780c90f83006615" width="40px" style="max-width: 100%;" /></a>
 <h3>Languages:</h3>
 <span>
