@@ -12,6 +12,8 @@
 <span>
 <img src="https://img.icons8.com/color/2x/angularjs.png" width="50px" style="max-width: 100%;">
 <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" width="40px" height="45px" style="max-width: 100%;">
+<img src="https://png.pngitem.com/pimgs/s/174-1746763_spring-framework-logo-01-spring-boot-hd-png.png" width="40px" height="45px" style="max-width: 100%;">
+<img src="https://png.pngitem.com/pimgs/s/25-255469_android-filetransfer-icon-android-file-transfer-icon-hd.png" width="40px" height="45px" style="max-width: 100%;">
 </span>
 <h2>Interested In Full-Stack Development</h2>
 <h2>Currently working on Spring Boot</h2>
