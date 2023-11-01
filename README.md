@@ -1,8 +1,10 @@
 ### Hey <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" height="70px" style="max-width: 100%;"> , Welcome to my GitHub 👨‍💻
-### I am presently employed at   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Happiest_Minds_New_Logo.jpg/800px-Happiest_Minds_New_Logo.jpg?20200130101853" width="180x" height="60px" style="max-width: 100%;"> 
+### I am presently employed at    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Happiest_Minds_New_Logo.jpg/800px-Happiest_Minds_New_Logo.jpg?20200130101853" width="180x" height="48px" style="max-width: 100%"> 
 ### Connect me at <a href="https://www.linkedin.com/in/ahan-m-a-73377a191" target="blank"><img align="center" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="40px" style="max-width: 100%;" /></a>
 ### My DSA journey
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ahan-stark)
+### GitHub Stats
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/api?username=ahan-stark)](https://github.com/ahan-stark)
 <h3>Languages:</h3>
 <span>
 <img src="https://img.icons8.com/color/344/python--v1.png" width="40px" style="max-width: 100%;">
