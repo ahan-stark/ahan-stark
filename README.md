@@ -4,7 +4,9 @@
 ### My DSA journey
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ahan-stark)
 ### GitHub Stats
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/api?username=ahan-stark)](https://github.com/ahan-stark)
+![Ahan's github stats](https://github-readme-stats.vercel.app/api?username=ahan-stark&show_icons=true&theme=github_dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahan-stark&layout=donut&show_icons=true&theme=github_dark)
 <h3>Languages:</h3>
 <span>
 <img src="https://img.icons8.com/color/344/python--v1.png" width="40px" style="max-width: 100%;">
