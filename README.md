@@ -23,7 +23,7 @@
 <img src="https://png.pngitem.com/pimgs/s/25-255469_android-filetransfer-icon-android-file-transfer-icon-hd.png" width="40px" height="45px" style="max-width: 100%;">
 </span>
 <h2>Interested In Full-Stack Development</h2>
-<h2>Currently working on Spring Boot</h2>
+<!-- <h2>Currently </h2> -->
 
 
 <!--
