@@ -7,7 +7,9 @@
 ### GitHub Stats
 ![Ahan's github stats](https://github-readme-stats.vercel.app/api?username=ahan-stark&show_icons=true&theme=github_dark)
 <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahan-stark&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahan-stark&layout=donut&show_icons=true&theme=github_dark)
+![](https://github-profile-trophy.vercel.app/?username=ahan-stark&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <h3>Languages:</h3>
 <span>
 <img src="https://img.icons8.com/color/344/python--v1.png" width="40px" style="max-width: 100%;">
